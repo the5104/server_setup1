@@ -1,0 +1,41 @@
+1. 
+expression 
+value 
+value
+expression
+expression
+expression
+value
+
+
+2. 
+string can be assigned as variable 
+ String is a data type which can be stored as variable. 
+
+3. 
+String
+Integer
+charecter
+dictionary 
+
+4. 
+operators and operands
+
+5. 
+expressions have variables 
+statemnts usually are declared with predefined values. 
+
+6. 
+23
+
+7. 
+spamspamspam
+
+8. 
+variable names cant start with number
+
+9.
+int(), float(), str()
+
+10. 
+Integer can't be appended to a string. 
